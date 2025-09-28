@@ -1,6 +1,4 @@
 <div align="center">
-  <h1> TinkerBird </h1>
-  <p> Client-side vector search </p>
   <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/68636020-0bb1-42a2-b9b0-47f42b5a40a4" />
   <p>
     <a href="https://github.com/wizenheimer/tinkerboard"><strong>Examples </strong> </a> |
