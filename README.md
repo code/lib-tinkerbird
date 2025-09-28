@@ -1,4 +1,16 @@
-# <p align="center">TinkerBird</p>
+<div align="center">
+  <h1> TinkerBird </h1>
+  <p> Client-side vector search </p>
+  <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/68636020-0bb1-42a2-b9b0-47f42b5a40a4" />
+  <p>
+    <a href="https://github.com/wizenheimer/tinkerboard"><strong>Examples </strong> </a> |
+    <a href="https://github.com/wizenheimer/tinkerboard"><strong>TinkerBoard </strong> </a> |
+    <a href="https://github.com/wizenheimer/tinychat"><strong> TinyChat </strong> </a> |
+    <a href="https://github.com/wizenheimer/tinyembed"><strong> TinyEmbed </strong> </a> |
+    <a href="https://github.com/wizenheimer/tinysonnet"><strong> TinySonnet </strong> </a>
+  </p>
+</div>
+
 
 TinkerBird is a browser native vector database designed for efficient storage and
 retrieval of high-dimensional vectors (embeddings). It's query engine, written in
@@ -16,9 +28,7 @@ and LevelDB storage systems. By using Indexeddb, it benefits from IndexedDB's
 adoption, stability and familiarity as a native choice for offline first
 workflows.
 
-## Examples
-
-Here's a sample app built using TinkerBird. Check out [Tinkerboard](https://tinkerboard.vercel.app/) and [Source](https://github.com/wizenheimer/tinkerboard).
+Pair TinkerBird with [TinyLM](https://github.com/wizenheimer/tinylm), its companion client-side inference library for embeddings and text generation — run models like DeepSeek, Llama 3.2, and Nomic Embed directly in the browser with zero-cost WebGPU based inference.
 
 ## Contributing
 
